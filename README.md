@@ -12,5 +12,5 @@
 ## 4. [Класторизация временных рядов](https://nbviewer.jupyter.org/github/palekseym/ml-advanced/blob/main/homework_4/homework_4.ipynb)
 С помощью методов кластеризации необходимо найти примеры криптовалют не похожие на bitcoin
 
-## 4. [Рекомендательные системы](https://nbviewer.jupyter.org/github/palekseym/ml-advanced/blob/main/homework_5/homework_5.ipynb)
+## 5. [Рекомендательные системы](https://nbviewer.jupyter.org/github/palekseym/ml-advanced/blob/main/homework_5/homework_5.ipynb)
 С помощью библиотеки surprise сделать простенкую рекомендательную систему.
